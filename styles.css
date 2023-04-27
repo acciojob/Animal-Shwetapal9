@@ -7,12 +7,12 @@
     text-align: center;
 }
 .animals{
+	width:90%;
     padding: 10px;
     display: flex;
     flex-wrap: wrap;
     /* grid-template-columns: repeat(3,auto); */
-    justify-content: space-around;
-    /* align-content: space-evenly; */
+    justify-content: center;
 }
 .animals > img{
     border-radius: 25px;
